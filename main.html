@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>Rock Paper Scissors Game</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body style = 'background-color: #ffffff'>
+        <header id="header">
+            <h1 class="header-title">Help Frodo!</h1>
+            <h5 class="header-caption">Gollum won't take the ring if you help 
+                Frodo beat him in a game of Rock, Paper, Scissors</h5>
+            <h5 class="header-caption">Who ever reaches 5 points first, wins. 
+                Good Luck.</h5>
+        </header>
+        <div id="main-container">
+            <div id="images">
+                <img src="./gollum.jpg" alt="a threatening Gollum" class="gollum-image">
+                <img src="./frodo.jpg" alt="a brave Frodo with the ring" class="frodo-image">
+            </div>
+            <div class="image-credit">
+            </div>
+            <div id="score-row"></div>
+                <audio src="./2zc-stupid-fat-hobbit.mp3" id="winner-audio" class="winner"></audio>
+                <audio src="./1h-noooooooooo.mp3" id="loser-audio" class="loser"></audio>
+            <div id="results-container"></div>
+            <div id="button-row"></div>
+            <div class="pop" id="popup-1" style="display:none">
+                <div id="content">
+                    <h1>Thank you for playing!</h1>
+                    <p style = 'font-size: 30px;'>THE WINNER IS: </p>
+                    <button id="play-again">PLAY AGAIN</button>
+                </div>
+            </div>
+        </div>
+        <script src="./main.js"></script>
+    </body>
+</html>
+
