@@ -7,6 +7,7 @@ Artwork (1 & 2) by https://jeromemoore.artstation.com/projects/3ovVL2 . All cred
 
 ![Screen Shot 2022-08-29 at 12 32 50 PM](https://user-images.githubusercontent.com/108698155/187283275-2e8d9484-8a95-4e1a-8065-f980f00d399a.png)
 
+For some odd reason, I cannot get it to create a live link. Here is a screen recording of me playing. 
 
 https://user-images.githubusercontent.com/108698155/187331738-e6a015b9-b381-4430-bdc6-f1fbabdcf6c6.mov
 
